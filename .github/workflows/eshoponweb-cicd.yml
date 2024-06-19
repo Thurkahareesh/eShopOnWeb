@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 542ec0ba-21b2-46ef-896d-cab3ff35b0d6
-  WEBAPP-NAME: eshoponweb-webapp-thurka
+  WEBAPP-NAME: eshoponweb-webapp-thurka1234
 
 
 jobs:
